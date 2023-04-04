@@ -2,4 +2,4 @@
 
 ## Google Ana Sayfasını Tasarlamak
 
-[Patika.Dev]('www.patika.dev')
+[Patika.Dev](www.patika.dev)
