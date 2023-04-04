@@ -1,5 +1,8 @@
-# Ödev 3
+# CSS-ODEV3
 
-## Google Ana Sayfasını Tasarlamak
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End içerisindeki, CSS eğitiminde oluşturduğumuz üçüncü repo.
+Bu çalışmada Google güncel versiyonu klonlandı.
 
-[Patika.Dev](www.patika.dev)
+## Patika
+
+[patika.dev profilim](https://app.patika.dev/minorx)
